@@ -1,9 +1,9 @@
 .===================================================================================
 # Predict IMDB movie rating
 
-    by Chuan Sun (sundeepblue at gmail dot com)
+    by Chuan Sun (cypherme at gmail dot com)
     
-    https://twitter.com/sundeepblue
+    https://twitter.com/cypherme
     
     Scrapy project @ NYC Data Science Academy
     

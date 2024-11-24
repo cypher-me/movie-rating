@@ -5,7 +5,7 @@ import json
 import locale
 import collections
 
-base_dir = "/Users/sundeepblue/movie"
+base_dir = "/Users/cypherme/movie"
 locale.setlocale( locale.LC_ALL, 'en_US.UTF-8' ) 
 
 
